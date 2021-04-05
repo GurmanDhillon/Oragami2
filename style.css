@@ -1,0 +1,15 @@
+h1{
+    color:rgb(189, 92, 92)
+}
+.header{
+    background-color:rgb(101, 179, 121);
+  display:flex;
+  justify-content:space-evenly
+ }
+ .footer{
+    background-color:rgb(31, 147, 155);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between
+ }
+ 
